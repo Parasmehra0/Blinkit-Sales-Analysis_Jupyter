@@ -1,0 +1,20 @@
+📁 Project Overview
+This project focuses on understanding sales patterns, product performance, and customer behavior to help make data-driven business decisions. It includes:
+
+Data Cleaning & Transformation
+Exploratory Data Analysis (EDA)
+Visualizations with Matplotlib and Seaborn
+Insights and Recommendations
+
+🛠Libraries
+Pandas – Data manipulation and analysis
+NumPy – Numerical computing
+Matplotlib & Seaborn – Data visualization
+Jupyter Notebook – Interactive development
+
+📌 Key Insights
+✔️ Identified top-selling products and categories
+✔️ Analyzed daily and monthly sales trends
+✔️ Determined peak hours for order volume
+✔️ Examined customer order frequency and repeat behavior
+✔️ Suggested improvements for product placement and inventory
